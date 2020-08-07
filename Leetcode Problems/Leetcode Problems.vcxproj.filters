@@ -39,5 +39,8 @@
     <ClCompile Include="Medium\1481. Least Number of Unique Integers after K Removals.cpp">
       <Filter>Source Files\Medium</Filter>
     </ClCompile>
+    <ClCompile Include="Medium\442. Find All Duplicates in an Array.cpp">
+      <Filter>Source Files\Medium</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -145,6 +145,7 @@
     <ClCompile Include="Easy\1512. Number of Good Pairs.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Medium\1481. Least Number of Unique Integers after K Removals.cpp" />
+    <ClCompile Include="Medium\442. Find All Duplicates in an Array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
