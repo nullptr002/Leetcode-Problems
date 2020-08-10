@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Medium">
       <UniqueIdentifier>{26758023-a3ae-4a15-9abb-680f8a9ddaa7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\August Leetcoding Challenge">
+      <UniqueIdentifier>{4c8a6543-57ee-4142-9880-097e903c25dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Easy\1480. Running Sum of 1d Array.cpp">
@@ -41,6 +44,30 @@
     </ClCompile>
     <ClCompile Include="Medium\442. Find All Duplicates in an Array.cpp">
       <Filter>Source Files\Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1295. Find Numbers with Even Number of Digits.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Medium\754. Reach a Number.cpp">
+      <Filter>Source Files\Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1323. Maximum 69 Number.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\38. Count and Say.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\58. Length of Last Word.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\500. Keyboard Row.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\Excel Sheet Column Number.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\Detect Capital.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

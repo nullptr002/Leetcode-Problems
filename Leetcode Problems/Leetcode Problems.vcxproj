@@ -139,13 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="August Leetcoding Challenge\Detect Capital.cpp" />
+    <ClCompile Include="August Leetcoding Challenge\Excel Sheet Column Number.cpp" />
     <ClCompile Include="Easy\1119. Remove Vowels from a String.cpp" />
+    <ClCompile Include="Easy\1295. Find Numbers with Even Number of Digits.cpp" />
+    <ClCompile Include="Easy\1323. Maximum 69 Number.cpp" />
     <ClCompile Include="Easy\1470. Shuffle the Array.cpp" />
     <ClCompile Include="Easy\1480. Running Sum of 1d Array.cpp" />
     <ClCompile Include="Easy\1512. Number of Good Pairs.cpp" />
+    <ClCompile Include="Easy\38. Count and Say.cpp" />
+    <ClCompile Include="Easy\500. Keyboard Row.cpp" />
+    <ClCompile Include="Easy\58. Length of Last Word.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Medium\1481. Least Number of Unique Integers after K Removals.cpp" />
     <ClCompile Include="Medium\442. Find All Duplicates in an Array.cpp" />
+    <ClCompile Include="Medium\754. Reach a Number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
