@@ -63,10 +63,28 @@
     <ClCompile Include="Easy\500. Keyboard Row.cpp">
       <Filter>Source Files\Easy</Filter>
     </ClCompile>
-    <ClCompile Include="August Leetcoding Challenge\Excel Sheet Column Number.cpp">
+    <ClCompile Include="August Leetcoding Challenge\1. Detect Capital.cpp">
       <Filter>Source Files\August Leetcoding Challenge</Filter>
     </ClCompile>
-    <ClCompile Include="August Leetcoding Challenge\Detect Capital.cpp">
+    <ClCompile Include="August Leetcoding Challenge\3. Valid Palindrome.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\10. Excel Sheet Column Number.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\4. Power of Four.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\929. Unique Email Addresses.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\5. Add and Search Word - Data structure design.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\11. H-Index.cpp">
+      <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="August Leetcoding Challenge\6. Find All Duplicates in an Array.cpp">
       <Filter>Source Files\August Leetcoding Challenge</Filter>
     </ClCompile>
   </ItemGroup>
