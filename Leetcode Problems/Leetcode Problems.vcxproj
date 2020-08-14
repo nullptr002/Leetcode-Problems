@@ -149,19 +149,26 @@
     <ClCompile Include="August Leetcoding Challenge\4. Power of Four.cpp" />
     <ClCompile Include="August Leetcoding Challenge\5. Add and Search Word - Data structure design.cpp" />
     <ClCompile Include="August Leetcoding Challenge\6. Find All Duplicates in an Array.cpp" />
+    <ClCompile Include="Easy\1033. Moving Stones Until Consecutive.cpp" />
     <ClCompile Include="Easy\1119. Remove Vowels from a String.cpp" />
     <ClCompile Include="Easy\1295. Find Numbers with Even Number of Digits.cpp" />
     <ClCompile Include="Easy\1323. Maximum 69 Number.cpp" />
+    <ClCompile Include="Easy\1399. Count Largest Group.cpp" />
     <ClCompile Include="Easy\1470. Shuffle the Array.cpp" />
     <ClCompile Include="Easy\1480. Running Sum of 1d Array.cpp" />
     <ClCompile Include="Easy\1512. Number of Good Pairs.cpp" />
+    <ClCompile Include="Easy\344. Reverse String.cpp" />
     <ClCompile Include="Easy\38. Count and Say.cpp" />
     <ClCompile Include="Easy\500. Keyboard Row.cpp" />
     <ClCompile Include="Easy\58. Length of Last Word.cpp" />
+    <ClCompile Include="Easy\66. Plus One.cpp" />
     <ClCompile Include="Easy\929. Unique Email Addresses.cpp" />
+    <ClCompile Include="Easy\999. Available Captures for Rook.cpp" />
+    <ClCompile Include="Hard\164. Maximum Gap.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Medium\1481. Least Number of Unique Integers after K Removals.cpp" />
     <ClCompile Include="Medium\442. Find All Duplicates in an Array.cpp" />
+    <ClCompile Include="Medium\54. Spiral Matrix.cpp" />
     <ClCompile Include="Medium\754. Reach a Number.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

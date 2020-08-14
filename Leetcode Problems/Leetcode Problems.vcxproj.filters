@@ -22,6 +22,9 @@
     <Filter Include="Source Files\August Leetcoding Challenge">
       <UniqueIdentifier>{4c8a6543-57ee-4142-9880-097e903c25dd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Hard">
+      <UniqueIdentifier>{cdf27b3c-fbb0-4ac1-8863-97f73fec2e50}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Easy\1480. Running Sum of 1d Array.cpp">
@@ -86,6 +89,27 @@
     </ClCompile>
     <ClCompile Include="August Leetcoding Challenge\6. Find All Duplicates in an Array.cpp">
       <Filter>Source Files\August Leetcoding Challenge</Filter>
+    </ClCompile>
+    <ClCompile Include="Hard\164. Maximum Gap.cpp">
+      <Filter>Source Files\Hard</Filter>
+    </ClCompile>
+    <ClCompile Include="Medium\54. Spiral Matrix.cpp">
+      <Filter>Source Files\Medium</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\66. Plus One.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1399. Count Largest Group.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\999. Available Captures for Rook.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\344. Reverse String.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1033. Moving Stones Until Consecutive.cpp">
+      <Filter>Source Files\Easy</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

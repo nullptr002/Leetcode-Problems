@@ -1,6 +1,6 @@
 #include <vector>
 #include <string>
-#include <map>
+#include <unordered_map>
 
 using namespace std;
 
@@ -13,9 +13,8 @@ public:
             "zxcvbnm"
         };
 
-        map<char, int> mapp;
+        unordered_map<char, int> mapp;
 
-        // assigning each letter in the map the corresponding row value
         for (int i = 0; i < rows.size(); i++)
             for (const auto& letter : rows[i])
                 mapp[letter] = i;
@@ -24,10 +23,8 @@ public:
         {
             for (int j = 1; j < words[i].size(); j++)
             {
-                // saves in a and b the map value of 2 successive letters
-                // looks ugly because ternary operator was used to transform uppercase letters in lowercase
-                int a = mapp[words[i][j] < 97 ? words[i][j] + 32 : words[i][j]];
-                int b = mapp[words[i][j - 1] < 97 ? words[i][j - 1] + 32 : words[i][j - 1]];
+                int a = mapp[tolower(words[i][j])];
+                int b = mapp[tolower(words[i][j - 1])];
 
                 if (a != b)
                 {
