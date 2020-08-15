@@ -8,7 +8,7 @@ A place where I upload my [Leetcode](www.leetcode.com) problems solutions.
 4. Most of them are not perfect, some are highly inefficient, and a few are complete garbage. Statistically, they're above average though.
 5. All solutions are in C++.
 
-That being said, proceed with caution.\
+That being said, proceed with caution.  
 ## Easy
 |ID|Name|Leetcode link|Solution link|Runtime|Memory usage|
 |--|--|--|--|--|--|
