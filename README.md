@@ -5,7 +5,7 @@ A place where I upload my [Leetcode](www.leetcode.com) problems solutions.
 1. You can do whatever you want with whatever you find here.
 2. The solutions are sometimes updated if I come up with a better idea. They're never updated if I find a better solution made by someone else, so this is not meant to be a list of perfect solutions.
 3. The percentages shown under **Runtime** and **Memory usage** are obtained by submitting a solution 10 times and calculating the average. This is done because the measurements on leetcode seem to vary a lot.
-4. Most of them are not perfect, but statistically above average. Some are highly inefficient. And a few are complete garbage.
+4. Most of them are not perfect, some are highly inefficient, and a few are complete garbage. Statistically, they're above average though.
 5. All solutions are in C++.
 
 That being said, proceed with caution.
