@@ -120,5 +120,20 @@
     <ClCompile Include="Easy\463. Island Perimeter.cpp">
       <Filter>Source Files\Easy</Filter>
     </ClCompile>
+    <ClCompile Include="Easy\1047. Remove All Adjacent Duplicates In String.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\1394. Find Lucky Integer in an Array.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\412. Fizz Buzz.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Easy\415. Add Strings.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="Medium\435. Non-overlapping Intervals.cpp">
+      <Filter>Source Files\Medium</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
